@@ -1,0 +1,277 @@
+1.txt
+students.txt
+tmp.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+tmp.txt:11:1.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+tmp.txt:11:1.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+tmp.txt:11:1.txt
+tmp.txt:21:1.txt
+tmp.txt:31:1.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:2:2.txt
+tmp.txt:12:2.txt
+tmp.txt:22:2.txt
+tmp.txt:32:2.txt
+tmp.txt:42:2.txt
+tmp.txt:52:2.txt
+tmp.txt:62:2.txt
+tmp.txt:72:2.txt
+tmp.txt:82:2.txt
+1.txt:1:1234567890
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+tmp.txt:11:1.txt
+tmp.txt:21:1.txt
+tmp.txt:31:1.txt
+tmp.txt:41:1.txt
+tmp.txt:51:1.txt
+tmp.txt:61:1.txt
+tmp.txt:71:1.txt
+tmp.txt:81:1.txt
+tmp.txt:91:1.txt
+students.txt:1:202101060701 刘铮 22 male
+students.txt:2:202101060601 廖家祥 22 female
+students.txt:3:202101061022 隋学帅 22 male
+students.txt:4:202101060204 崔稳军 22 male
+students.txt:5:202101060921 薛金昊 21 female
+students.txt:6:202101060713 毛昊搏 22 female
+students.txt:7:202101061306 张彧 21 male
+students.txt:8:202101060530 梁智成 22 male
+students.txt:9:202101061230 张梦煊 26 male
+students.txt:10:202101060509 李林凤 22 female
+students.txt:11:202101061201 姚建婷 21 male
+students.txt:12:202101061201 姚建婷 21 male
+students.txt:13:202101060225 冯业诚 27 male
+students.txt:14:202101060226 付超 27 male
+students.txt:15:202101060228 付文诗 27 male
+students.txt:16:202101060229 傅怀泽 27 female
+students.txt:17:202101060304 高文轩 21 female
+students.txt:18:202101060306 高宇 22 female
+students.txt:19:202101060307 葛明迪 23 female
+students.txt:20:202101060308 耿臣鸿 22 male
+students.txt:21:202101060310 顾小军 21 male
+students.txt:22:202101060311 郭佳 22 male
+students.txt:23:202101060312 郭靖文 23 female
+students.txt:24:202101060313 郭清光 24 male
+students.txt:25:202101060313 郭清光 24 male
+tmp.txt:1:1.txt
+tmp.txt:11:1.txt
+tmp.txt:21:1.txt
+tmp.txt:31:1.txt
+tmp.txt:41:1.txt
+tmp.txt:51:1.txt
+tmp.txt:61:1.txt
+tmp.txt:71:1.txt
+tmp.txt:81:1.txt
+tmp.txt:91:1.txt
+tmp.txt:101:1.txt
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
